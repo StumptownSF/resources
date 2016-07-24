@@ -4,7 +4,7 @@
 -Movie night 
   - GitHub tutorials: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
-- Jupyter tutorial
+-Jupyter tutorial
 
 -Help eachother on projects
   - Hangman group
