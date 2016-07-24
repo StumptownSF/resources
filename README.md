@@ -13,7 +13,11 @@
 -PyLadies
 -GirlGeek Dinners
 
-Websites
+##National & International Resources
+- ACM.org
+- ncwit.org
+
+##Websites
 - 
 - 
 
