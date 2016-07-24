@@ -1,1 +1,9 @@
 # resources
+
+Meetup Ideas
+
+
+Websites
+
+
+
