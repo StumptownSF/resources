@@ -19,7 +19,7 @@
 - ncwit.org
 
 ##Websites
-- 
+-Femigineer
 - 
 
 
@@ -29,7 +29,6 @@
 
 ##Codeschools
 -Skillcrush.com
--Femigineer
 -CareerFoundry
 
 
