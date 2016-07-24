@@ -1,9 +1,12 @@
 # resources
 
 Meetup Ideas
+-
+-
 
 
 Websites
-
+- 
+- 
 
 
