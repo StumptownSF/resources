@@ -1,7 +1,8 @@
 # Resources
 
 Meetup Ideas
--Movie night - GitHub tutorials: https://help.github.com/articles/good-resources-for-learning-git-and-github/
+-Movie night 
+  - GitHub tutorials: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 -
 
 
