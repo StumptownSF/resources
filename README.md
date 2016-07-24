@@ -1,12 +1,12 @@
 # Resources
 
-Meetup Ideas
+##Meetup Ideas
 -Movie night 
   - GitHub tutorials: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 -
 
 
-Local groups
+##Local groups
 -PyLadies
 -GirlGeek Dinners
 
@@ -15,16 +15,17 @@ Websites
 - 
 
 
-Tutorials
+##Tutorials
 - Github: https://speakerdeck.com/willingc/yes-you-can-git
 
 
-Codeschools
+##Codeschools
 -Skillcrush.com
 -Femigineer
+-CareerFoundry
 
 
-Games
+##Games
 -PyGame
 -PythonChallenge
 
