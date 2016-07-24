@@ -15,8 +15,8 @@
 -GirlGeek Dinners
 
 ##National & International Resources
-- ACM.org
-- ncwit.org
+-ACM.org
+-ncwit.org
 
 ##Websites
 -Femigineer
